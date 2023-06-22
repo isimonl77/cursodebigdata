@@ -29,9 +29,10 @@ Hoy he subido la carpeta Día II en la que se incluyen 2 Notebooks.
      ## Conjuntos - SET
 
 # DÍA 3 -
-Hoy he subido la carpeta Día III en la que se incluyen ""
-#El primero 
-#El segundo 
+Hoy he subido la carpeta Día III en la que se incluyen 3 Notebooks. 
+#El primero (Copia_de_Prophet_Predecir_el_valor_de_Bitcoin) para predecir el valor del Bitcoin. 
+#El segundo (Copia_de_M5_06_Introducción_a_Machine_Learning_con_Scikit_Learn), en donde mejoramos la predicción de nuestro modelo
+#El tercero ( Copia_de_M5_09_Folium), en donde visualizamos datos geoespaciales. 
 
 ## Términos desarrollados 
     ##IA VS Machine Learning VS Deep Learning
